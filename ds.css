@@ -1,0 +1,17 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    text-align: center;
+    margin: 20px;
+    margin-bottom:  20px;
+
+}
+
+#num1-el,
+#num2-el{
+    text-decoration: underline;
+}
+
