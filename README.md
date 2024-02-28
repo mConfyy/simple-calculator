@@ -1,2 +1,2 @@
 # simple-calculator
-A simple calculator project. would eventually modify it
+This is a simple calculator project. I plan to make modifications to it in the future.
